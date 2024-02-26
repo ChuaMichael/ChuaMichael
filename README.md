@@ -15,6 +15,15 @@
 - [Network Monitoring](https://github.com/ChuaMichael/ChuaMichael)
 - [Servces](https://github.com/ChuaMichael/ChuaMichael)
 
+
+<h2>📃 Certifications</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/5d25388c-3270-4e7e-bbb5-283981f47b9d/public_url)
+- [RedHat RHCSA](https://www.credly.com/badges/041e3e8e-7a39-481d-a0f1-fb02ee1b0673)
+- [Cisco CCNA](https://www.credly.com/badges/061c237e-d2f1-46f1-8990-94cb72270798)
+- [Azure Fundamentals](https://www.credly.com/badges/6d8b553b-6da0-4c06-9a6b-97f89dcf2433/public_url)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
