@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael!<br/><a href="https://www.linkedin.com/in/MichaelChua23">Current IT Technician 3+ years</a>, <a href="https://github.com/ChuaMichael/ChuaMichael">Aspiring Cybersecurity Professional</a></h1>
 
-<h2>🖥 Networking Projects</h2>
+<h2>🖥 Networking and System Administration Projects</h2>
 
 - <b>Home Lab</b>
   - [Hardware and Proxmox Setup](https://github.com/ChuaMichael/HomeLab?tab=readme-ov-file#description)
