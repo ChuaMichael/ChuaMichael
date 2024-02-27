@@ -4,20 +4,17 @@
 
 - <b>Home Lab</b>
   - [Hardware and Proxmox Setup](https://github.com/ChuaMichael/HomeLab?tab=readme-ov-file#description)
-  - [PFSense Networking](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#pfsense-networking)
+  - [pfSense Networking](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#pfsense-networking)
   - [Ubuntu Virtual Machine](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#ubuntu-virtual-machine)
   - [Windows Server Virtual Machine](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#windows-server-virtual-machine)
   
 - <b>Cloud</b>
-  - [Azure](https://github.com/ChuaMichael)
+  - [PENDING](https://github.com/ChuaMichael)
 
   
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>On Premise</b>
-  - [TEST](https://github.com/ChuaMichael)
-- <b>Cloud</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [TEST](https://github.com/ChuaMichael)
 
 <h2>📃 Certifications</h2>
