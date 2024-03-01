@@ -2,16 +2,13 @@
 
 <h2>🖥 Networking and System Administration Projects</h2>
 
-- <b>Home Lab</b>
+- <b>Home Lab Base Environment Setup</b>
   - [Hardware and Proxmox Setup](https://github.com/ChuaMichael/HomeLab?tab=readme-ov-file#description)
   - [pfSense Networking](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#pfsense-networking)
   - [Ubuntu Virtual Machine](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#ubuntu-virtual-machine)
   - [Windows Server Virtual Machine](https://github.com/ChuaMichael/HomeLab/blob/main/README.md#windows-server-virtual-machine)
   
-- <b>Cloud</b>
-  - [PENDING](https://github.com/ChuaMichael)
 
-  
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>On Premise</b>
